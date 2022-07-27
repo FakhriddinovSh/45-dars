@@ -596,6 +596,11 @@ body{
 .footer__social > a{
   margin-top: 48px;
   margin-right: 24px;
+  color: #FEFCF7;
+}
+
+.footer__social > a:hover{
+  color: #FDD6BA;
 }
 
 .footer__social > a:last-child{
