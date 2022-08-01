@@ -4288,10 +4288,12 @@ body{
   }
   
   .plan-step__wrapper{
+    max-width: 1325px;
+    margin: 0 auto;
     padding-top: 280px;
     padding-bottom: 97px;
     background-color: #293039;
-    border-radius: 20px;
+    border-radius: 0px;
   }
   
   .plan-step__list{
@@ -4310,7 +4312,7 @@ body{
     min-width: 467px;
     height: 2px;
     top: -30%;
-    left: calc(50% - 623px);
+    left: calc(50% - 602px);
     /* margin: 0 auto; */
   }
   
