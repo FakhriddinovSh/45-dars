@@ -776,7 +776,7 @@ body{
   top: -70px;
   left: 0;
   right: 0;
-  margin: 0 0;
+  margin: 0 auto;
 }
 
 .place__item:nth-child(3):before{
@@ -784,16 +784,17 @@ body{
   content: "";
   background-image: url("../images/place-three.svg");
   background-repeat: no-repeat;
-  width: 51px;
+  width: 45px;
   height: 49px;
   top: -70px;
   left: 0;
   right: 0;
-  margin: 0 0;
+  margin: 0 auto;
 }
 
 .place__item:last-child{
   margin-bottom: 0;
+  padding-bottom: 50px;
 }
 
 .place__heading{
