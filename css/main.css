@@ -471,12 +471,12 @@ body{
 }
 
 .step__item__box::before {
-  font-family: "Fraunces", serif;
   position: absolute;
   content: "01";
   top: -80px;
   left: 0;
   right: 0;
+  font-family: "Fraunces", serif;
   font-weight: 900;
   font-size: 72px;
   line-height: 72px;
